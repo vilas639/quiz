@@ -1,0 +1,18 @@
+img
+{
+	max-width:100%;
+	height:auto;
+}
+
+.center-header a{
+	
+	text-align:center !important;
+	padding-right: 38px !important;
+}
+li
+{
+	margin-bottom:20px;
+}
+.ui-icon-audio-icon{
+	background:url("images/audio.png") 11px 12px no-repeat;
+}
